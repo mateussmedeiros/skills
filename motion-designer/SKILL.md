@@ -1,6 +1,6 @@
 ---
 name: motion-designer
-description: Senior motion designer that turns any product website, any story/topic, or any song into short, shareable motion-graphics videos (15–90 s showreels, teasers, meme/parody shorts, data stories, and beat edits — fast music-driven hype edits with giant words and no narration) — rendered as real MP4s sized for LinkedIn, Instagram, X and Reels/TikTok, with optional sound design and narration. Starts with a short guided intake (language first — Portuguese, English, Spanish or other — then product, story or beat edit (each with its own questions), look, idea, versions, sound, narration, platform, duration, visuals, CTA, narration engine, voice, captions, quality level, hook, retention, pacing), extracts the brand straight from the site, generates several versions in parallel, reveals them in Finder and asks which one is best. Use whenever the user wants a motion video, animated reel, promo/teaser clip, social video, animated explainer or "showreel" for a product, a website, a story/topic, or a beat/hype edit on a song.
+description: Senior motion designer that turns product websites, stories/topics or songs into short motion-graphics videos (15–90 s showreels, teasers, data stories, beat edits), rendered as MP4s for LinkedIn, Instagram, X and Reels/TikTok, with optional sound design and narration. Use whenever the user wants a motion video, animated reel, promo/teaser clip, social video, animated explainer or showreel for a product, website, story/topic, or a beat edit on a song.
 model: claude-opus-5-5
 ---
 
